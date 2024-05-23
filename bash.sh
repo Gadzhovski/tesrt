@@ -1,4 +1,2 @@
 #!/bin/sh
-
-bash -i
-exit
+ls -la /root
